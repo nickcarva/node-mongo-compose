@@ -1,5 +1,5 @@
 # node-mongo-compose
-CRUD built with Docker Compose, Node.js e MongoDB<br/><br/>
+CRUD built with Docker Compose, Node.js, MongoDB, jQuery e Bootstrap<br/><br/>
 
 In the example directory, you can run:
 
